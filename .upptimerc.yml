@@ -16,7 +16,7 @@ sites:
     url: $DRIVE
   - name: ORT
     url: https://www.ort.edu.ar
-  - name: Rec.
+  - name: Descargas
     url: $RWDL
 
 status-website:
@@ -25,4 +25,3 @@ status-website:
   name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
-  #Secret message
