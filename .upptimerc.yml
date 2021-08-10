@@ -22,6 +22,6 @@ sites:
 status-website:
   baseUrl: /ort/
   logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
-  name: ""
+  name: "TEST"
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
