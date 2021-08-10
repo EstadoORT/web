@@ -4,10 +4,10 @@ repo: ort
 sites:
   - name: Campus
     url: https://campus.ort.edu.ar
-    #icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
+    icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
   - name: CREA
     url: https://crea.ort.edu.ar
-    #icon: https://raw.githubusercontent.com/luqaska/ort/master/assets/logocrea.png
+    icon: https://raw.githubusercontent.com/luqaska/ort/master/assets/logocrea.png
   - name: Editorial ORT
     url: https://editorial.ort.edu.ar
   - name: Extranet
@@ -22,6 +22,6 @@ sites:
 status-website:
   baseUrl: /ort/
   logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
-  name: "TEST"
+  name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
