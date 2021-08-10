@@ -25,3 +25,4 @@ status-website:
   name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
+  #Secret message
