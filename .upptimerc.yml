@@ -25,3 +25,49 @@ status-website:
   name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
+i18n:
+  activeIncidents: Páginas caidas
+  allSystemsOperational: Todas las webs están funcionando
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Detalles
+  incidentFixed: Resuelto
+  incidentOngoing: En proceso
+  incidentOpenedAt: Detectado el
+  incidentClosedAt: Cerrado hace
+  incidentSubscribe: Subscribirse
+  incidentViewOnGitHub: Ver en GitHub
+  incidentCommentSummary: Posteado el $DATE por $AUTHOR
+  incidentBack: ← Volver al lobby
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: En vivo
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  sevelDayResponseTime: Últimos 7 dias
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: ⬆
+  down: ⬇
+  degraded: Degradado
+  loading: Cargando
+  footer: Pwd by [Upptime](https://upptime.js.org)
+  errorTitle: An error occurred Un error ha ocurrido
+  errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
+  errorText: Intentalo de nuevo en unos minutos.
+  errorHome: Ir al lobby
+  pastScheduledMaintenance: Pasadas tareas de mantenimiento programadas
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Empezó el
+  startsAt: Empieza el
+  duration: Duración
+  durationMin: $DURATION mins.
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
