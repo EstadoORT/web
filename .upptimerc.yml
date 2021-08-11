@@ -21,9 +21,6 @@ sites:
     url: $DRIVE
   - name: ORT
     url: https://www.ort.edu.ar
-  - name: QAv2
-    url: https://campusqav2.ort.edu.ar
-    icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
 
 status-website:
   baseUrl: /ort/
