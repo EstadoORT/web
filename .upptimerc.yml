@@ -64,12 +64,12 @@ i18n:
   errorHome: Ir al lobby
   pastScheduledMaintenance: Pasadas tareas de mantenimiento programadas
   scheduledMaintenance: Mantenimiento programado
-  scheduledMaintenanceSummaryStarted: Empezó el $DATE | Duración: $DURATION mins
-  scheduledMaintenanceSummaryStarts: Empieza el $DATE | Duración: $DURATION mins
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE | Duró $DURATION mins
+  scheduledMaintenanceSummaryStarts: Empieza el $DATE | Durará $DURATION mins
   startedAt: Empezó el
   startsAt: Empieza el
   duration: Duración
-  durationMin: $DURATION mins.
+  durationMin: $DURATION mins
   incidentCompleted: Completado
   incidentScheduled: Programado
 
