@@ -18,6 +18,9 @@ sites:
     url: https://www.ort.edu.ar
   - name: Descargas
     url: $RWDL
+    expectedStatusCodes:
+    - 200
+    - 403
 
 status-website:
   baseUrl: /ort/
@@ -25,43 +28,44 @@ status-website:
   name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
+
 i18n:
   activeIncidents: Páginas caidas
   allSystemsOperational: Todas las webs están funcionando
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "Discusión →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
+  incidentTitle: Incidente \#$NUMBER
   incidentDetails: Detalles
   incidentFixed: Resuelto
   incidentOngoing: En proceso
   incidentOpenedAt: Detectado el
   incidentClosedAt: Cerrado hace
   incidentSubscribe: Subscribirse
-  incidentViewOnGitHub: Ver en GitHub
-  incidentCommentSummary: Posteado el $DATE por $AUTHOR
+  incidentViewOnGitHub: Comentar
+  incidentCommentSummary: por $AUTHOR | $DATE
   incidentBack: ← Volver al lobby
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidents: Caidas pasadas
+  pastIncidentsResolved: Resuelto en al rededor de $MINUTES minutos
   liveStatus: En vivo
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
+  overallUptime: "Uptime promedio: $UPTIME"
+  overallUptimeTitle: Uptime promedio
+  averageResponseTime: "Tiempo de respuesta promedio: $TIME ms."
+  averageResponseTimeTitle: Tiempo de respuesta promedio
   sevelDayResponseTime: Últimos 7 dias
   responseTimeMs: Tiempo de respuesta (ms)
-  up: ⬆
-  down: ⬇
+  up: Funcionando
+  down: Caido
   degraded: Degradado
   loading: Cargando
   footer: Pwd by [Upptime](https://upptime.js.org)
-  errorTitle: An error occurred Un error ha ocurrido
+  errorTitle: Se produjo un error
   errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
   errorText: Intentalo de nuevo en unos minutos.
   errorHome: Ir al lobby
   pastScheduledMaintenance: Pasadas tareas de mantenimiento programadas
   scheduledMaintenance: Mantenimiento programado
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE | Duración: $DURATION mins
+  scheduledMaintenanceSummaryStarts: Empieza el $DATE | Duración: $DURATION mins
   startedAt: Empezó el
   startsAt: Empieza el
   duration: Duración
