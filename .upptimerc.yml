@@ -8,6 +8,11 @@ sites:
   - name: CREA
     url: https://crea.ort.edu.ar
     icon: https://raw.githubusercontent.com/luqaska/ort/master/assets/logocrea.png
+  - name: Descargas
+    url: $RWDL
+    expectedStatusCodes:
+    - 200
+    - 403
   - name: Editorial ORT
     url: https://editorial.ort.edu.ar
   - name: Extranet
@@ -16,11 +21,9 @@ sites:
     url: $DRIVE
   - name: ORT
     url: https://www.ort.edu.ar
-  - name: Descargas
-    url: $RWDL
-    expectedStatusCodes:
-    - 200
-    - 403
+  - name: QAv2
+    url: https://campusqav2.ort.edu.ar
+    icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
 
 status-website:
   baseUrl: /ort/
@@ -31,15 +34,15 @@ status-website:
 
 i18n:
   activeIncidents: Páginas caidas
-  allSystemsOperational: Todas las webs están funcionando
+  allSystemsOperational: Todo funciona
   incidentReport: "Discusión →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Abierto desde $DATE con $POSTS posts
   incidentTitle: Incidente \#$NUMBER
   incidentDetails: Detalles
   incidentFixed: Resuelto
   incidentOngoing: En proceso
-  incidentOpenedAt: Detectado el
-  incidentClosedAt: Cerrado hace
+  incidentOpenedAt: Fecha de detectado
+  incidentClosedAt: Fecha de resolución
   incidentSubscribe: Subscribirse
   incidentViewOnGitHub: Comentar
   incidentCommentSummary: por $AUTHOR | $DATE
