@@ -76,18 +76,20 @@
     "url": "$DRIVE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "f-m",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 790,
     "timeDay": 790,
     "timeWeek": 790,
     "timeMonth": 790,
     "timeYear": 790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-11": 0
+    }
   },
   {
     "name": "ORT",
@@ -113,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "descargas",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 792,
     "timeDay": 792,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2021-08-11": 43,
+      "2021-08-11": 257,
       "2021-08-10": 84
     }
   }
