@@ -13,6 +13,9 @@ sites:
     expectedStatusCodes:
     - 200
     - 403
+  - name: ECO
+    url: http://eco.ort.edu.ar
+    icon: https://external-content.duckduckgo.com/ip3/eco.ort.edu.ar.ico
   - name: Editorial ORT
     url: https://editorial.ort.edu.ar
   - name: Extranet
@@ -42,10 +45,10 @@ i18n:
   incidentClosedAt: Fecha de resolución
   incidentSubscribe: Subscribirse
   incidentViewOnGitHub: Comentar
-  incidentCommentSummary: por $AUTHOR | $DATE
+  incidentCommentSummary: por $AUTHOR - $DATE
   incidentBack: ← Volver al lobby
   pastIncidents: Caidas pasadas
-  pastIncidentsResolved: Resuelto en al rededor de $MINUTES minutos
+  pastIncidentsResolved: Duró $MINUTES minutos
   liveStatus: En vivo
   overallUptime: "Uptime promedio: $UPTIME"
   overallUptimeTitle: Uptime promedio
@@ -53,8 +56,8 @@ i18n:
   averageResponseTimeTitle: Tiempo de respuesta promedio
   sevelDayResponseTime: Últimos 7 dias
   responseTimeMs: Tiempo de respuesta (ms)
-  up: Funcionando
-  down: Caido
+  up: ⬆
+  down: ⬇
   degraded: Degradado
   loading: Cargando
   footer: Pwd by [Upptime](https://upptime.js.org)
