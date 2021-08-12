@@ -2,6 +2,9 @@ owner: luqaska
 repo: ort
 
 sites:
+  - name: Bibliotecas
+    url: $BIBLIOTECA
+    icon: https://favicons.githubusercontent.com/www.ort.edu.ar
   - name: Campus
     url: https://campus.ort.edu.ar
     icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
@@ -41,7 +44,7 @@ i18n:
   incidentTitle: Incidente \#$NUMBER
   incidentDetails: Detalles
   incidentFixed: Resuelto
-  incidentOngoing: En proceso
+  incidentOngoing: En pie
   incidentOpenedAt: Fecha de detectado
   incidentClosedAt: Fecha de resolución
   incidentSubscribe: Subscribirse
