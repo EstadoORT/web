@@ -31,6 +31,7 @@ sites:
 
 status-website:
   baseUrl: /ort/
+  favicon: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   name: ""
   introTitle: "Estado de los servidores de ORT"
@@ -39,7 +40,7 @@ status-website:
 i18n:
   activeIncidents: Páginas caidas
   allSystemsOperational: Todo funciona
-  incidentReport: "Discusión →"
+  incidentReport: "+ info →"
   activeIncidentSummary: Abierto desde $DATE con $POSTS posts
   incidentTitle: Incidente \#$NUMBER
   incidentDetails: Detalles
