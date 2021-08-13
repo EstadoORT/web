@@ -3,8 +3,10 @@ repo: ort
 
 sites:
   - name: Bibliotecas
+    check: "tcp-ping"
     url: $BIBLIOTECA
     icon: https://favicons.githubusercontent.com/www.ort.edu.ar
+    port: $BIBLIOPORT
   - name: Campus
     url: https://campus.ort.edu.ar
     icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
