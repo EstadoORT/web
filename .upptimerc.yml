@@ -42,15 +42,15 @@ i18n:
   allSystemsOperational: Todo funciona
   incidentReport: "+ info →"
   activeIncidentSummary: Abierto desde $DATE con $POSTS posts
-  incidentTitle: Incidente \#$NUMBER
+  incidentTitle: Incidente N°$NUMBER
   incidentDetails: Detalles
   incidentFixed: Resuelto
-  incidentOngoing: En pie
-  incidentOpenedAt: Fecha de detectado
+  incidentOngoing: Esta caída
+  incidentOpenedAt: Fecha de detección
   incidentClosedAt: Fecha de resolución
   incidentSubscribe: Subscribirse
-  incidentViewOnGitHub: Comentar
-  incidentCommentSummary: por $AUTHOR - $DATE
+  incidentViewOnGitHub: Ver en GitHub
+  incidentCommentSummary: $DATE
   incidentBack: ← Volver al lobby
   pastIncidents: Caidas pasadas
   pastIncidentsResolved: Duró $MINUTES minutos
