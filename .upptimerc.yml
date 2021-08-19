@@ -1,5 +1,5 @@
-owner: EstadoORT
-repo: EstadoORT.github.io
+owner: luqaska
+repo: ort
 
 sites:
   - name: Bibliotecas
@@ -32,8 +32,8 @@ sites:
     url: https://www.ort.edu.ar
 
 status-website:
-  baseUrl: /
-  #cname: lucas.koyu.space/ort
+  baseUrl: /ort/
+  cname: lucas.koyu.space
   favicon: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   name: ""
