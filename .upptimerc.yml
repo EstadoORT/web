@@ -1,5 +1,5 @@
 owner: EstadoORT
-repo: EstadoORT.github.io
+repo: ""
 
 sites:
   - name: Bibliotecas
@@ -33,7 +33,7 @@ sites:
 
 status-website:
   baseUrl: /
-  favicon: https://raw.githubusercontent.com/EstadoORT/EstadoORT.github.io/master/assets/ndflg.jpg
+  favicon: https://avatars.githubusercontent.com/u/89224143
   logoUrl: https://raw.githubusercontent.com/EstadoORT/EstadoORT.github.io/master/assets/ndflg.jpg
   name: ""
   introTitle: "Estado de los servidores de ORT"
