@@ -32,7 +32,8 @@ sites:
     url: https://www.ort.edu.ar
 
 status-website:
-  baseUrl: /ort/
+  #baseUrl: /ort/
+  cname: lucas.koyu.space/ort
   favicon: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
   name: ""
