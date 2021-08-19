@@ -67,7 +67,7 @@ i18n:
   up: ⬆
   down: ⬇
   degraded: Degradado
-  loading: Cargando
+  loading: Cargando...
   footer: Pwd by [Upptime](https://upptime.js.org)
   errorTitle: Se produjo un error
   errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
