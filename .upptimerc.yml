@@ -32,9 +32,9 @@ sites:
     url: https://www.ort.edu.ar
 
 status-website:
-  baseUrl: /EstadoORT.github.io
-  favicon: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
-  logoUrl: https://raw.githubusercontent.com/luqaska/ort/master/assets/ndflg.jpg
+  baseUrl: /
+  favicon: https://raw.githubusercontent.com/EstadoORT/EstadoORT.github.io/master/assets/ndflg.jpg
+  logoUrl: https://raw.githubusercontent.com/EstadoORT/EstadoORT.github.io/master/assets/ndflg.jpg
   name: ""
   introTitle: "Estado de los servidores de ORT"
   introMessage: "Página no oficial"
