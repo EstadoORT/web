@@ -37,8 +37,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/EstadoORT/web/master/assets/ndflg.jpg
   name: "EstadoORT"
   #introTitle: "Estado de los servidores de ORT"
-  introMessage: Fechas en MM/DD/YYYY<div id="feliz"></div>
-  js: 'var d=new Date();if(d.getDay()==5 or d.getDay()==6){document.getElementById("feliz").innerHTML="¡Shabat Shalom!"};'
+  introMessage: Fechas en MM/DD/YYYY<span id="feliz"></span>
+  js: 'var d=new Date();if(d.getDay()==5 or d.getDay()==6){document.getElementById("feliz").innerHTML=" - ¡Shabat Shalom!"};'
   css: 'body{background:no-repeat left url("https://raw.githubusercontent.com/EstadoORT/web/master/assets/008.jpg");background-size:cover;}main{background:white;padding:1%;border-radius:2px;}.logo div{display:none;}.svelte-jbr799,.svelte-jbr799 a{color:white;}'
 
 i18n:
