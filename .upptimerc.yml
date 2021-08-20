@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/EstadoORT/web/master/assets/ndflg.jpg
   name: ""
   introTitle: "Estado de los servidores de ORT"
-  introMessage: Las fechas acá están en formato MM/DD/YYYY"
+  introMessage: Fechas en MM/DD/YYYY
 
 i18n:
   activeIncidents: Páginas caidas
