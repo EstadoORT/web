@@ -37,12 +37,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/EstadoORT/web/master/assets/ndflg.jpg
   name: ""
   introTitle: "Estado de los servidores de ORT"
-  introMessage: "Página no oficial"
+  introMessage: Las fechas acá están en formato MM/DD/YYYY"
 
 i18n:
   activeIncidents: Páginas caidas
   allSystemsOperational: Todo funciona
-  incidentReport: "+ info →"
+  incidentReport: "+info →"
   activeIncidentSummary: Abierto desde $DATE con $POSTS posts
   incidentTitle: Incidente N°$NUMBER
   incidentDetails: Detalles
@@ -67,7 +67,7 @@ i18n:
   down: ⬇
   degraded: Degradado
   loading: Cargando...
-  footer: Pwd by [Upptime](https://upptime.js.org)
+  footer: Página no oficial<br />Pwd by [Upptime](https://upptime.js.org)
   errorTitle: Se produjo un error
   errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
   errorText: Intentalo de nuevo en unos minutos.
