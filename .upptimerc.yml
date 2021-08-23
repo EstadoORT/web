@@ -2,14 +2,6 @@ owner: EstadoORT
 repo: web
 
 sites:
-  - name: Biblioteca
-    #check: "tcp-ping"
-    url: $BIBLIOTECA
-    icon: https://favicons.githubusercontent.com/www.ort.edu.ar
-    #port: $BIBLIOPORT
-    expectedStatusCodes:
-    - 200
-    - 0
   - name: Campus
     url: https://campus.ort.edu.ar
     icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
