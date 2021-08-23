@@ -2,16 +2,14 @@ owner: EstadoORT
 repo: web
 
 sites:
-  - name: Biblioteca Almagro
+  - name: Biblioteca
     #check: "tcp-ping"
-    url: $B2
+    url: $BIBLIOTECA
     icon: https://favicons.githubusercontent.com/www.ort.edu.ar
     #port: $BIBLIOPORT
-  - name: Biblioteca Belgrano
-    #check: "tcp-ping"
-    url: $B2
-    icon: https://favicons.githubusercontent.com/www.ort.edu.ar
-    #port: $BIBLIOPORT
+    expectedStatusCodes:
+    - 200
+    - 0
   - name: Campus
     url: https://campus.ort.edu.ar
     icon: https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico
