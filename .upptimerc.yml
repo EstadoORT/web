@@ -30,9 +30,9 @@ status-website:
   baseUrl: /web
   favicon: https://avatars.githubusercontent.com/u/89224143
   logoUrl: https://raw.githubusercontent.com/EstadoORT/web/master/assets/ndflg.jpg
-  name: "EstadoORT"
-  #introTitle: "Estado de los servidores de ORT"
-  introMessage: Fechas en MM/DD/YYYY<span id="feliz"></span>
+  name: EstadoORT
+  #introTitle: Estado de los servidores de ORT
+  introMessage: 'Fechas en MM/DD/YYYY<span id="feliz"></span>'
   js: 'var d=new Date();if(d.getDay()==5 or d.getDay()==6){document.getElementById("feliz").innerHTML=" - ¡Shabat Shalom!"};'
   css: 'body{background:no-repeat left url("https://raw.githubusercontent.com/EstadoORT/web/master/assets/008.jpg");background-size:cover;background-attachment:fixed;}nav{box-shadow:0 1px 1em black;}.container{padding:unset;}main.container{background:white;padding:1%;border-radius:2px;}.logo div{display:none;}.svelte-jbr799,.svelte-jbr799 a{color:white;}'
 
@@ -63,8 +63,8 @@ i18n:
   up: ⬆
   down: ⬇
   degraded: Degradado
-  loading: Cargando...
-  footer: Página no oficial - Imágen por [ORT](https://www.ort.edu.ar)<br />Pwd by [Upptime](https://upptime.js.org)
+  loading: Cargando
+  footer: Página no oficial - Imagen por [ORT](https://www.ort.edu.ar)<br />Pwd by [Upptime](https://upptime.js.org)
   errorTitle: Se produjo un error
   errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
   errorText: Intentalo de nuevo en unos minutos.
