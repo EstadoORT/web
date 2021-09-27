@@ -4,55 +4,59 @@
     "url": "https://campus.ort.edu.ar",
     "icon": "https://external-content.duckduckgo.com/ip3/campus.ort.edu.ar.ico",
     "slug": "campus",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1470,
     "timeDay": 1524,
     "timeWeek": 1390,
     "timeMonth": 1386,
     "timeYear": 1470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 4
+    }
   },
   {
     "name": "CREA",
     "url": "https://crea.ort.edu.ar",
     "icon": "https://raw.githubusercontent.com/luqaska/ort/master/assets/crea.png",
     "slug": "crea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1391,
     "timeDay": 3902,
     "timeWeek": 1632,
     "timeMonth": 1405,
     "timeYear": 1391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 3
+    }
   },
   {
     "name": "Descargas",
     "url": "$RWDL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "descargas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.11%",
     "time": 946,
     "timeDay": 4976,
-    "timeWeek": 1728,
+    "timeWeek": 1840,
     "timeMonth": 1060,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2021-09-27": 18,
+      "2021-09-27": 21,
       "2021-09-20": 17,
       "2021-08-31": 30,
       "2021-08-24": 19,
@@ -65,28 +69,30 @@
     "url": "http://eco.ort.edu.ar",
     "icon": "https://external-content.duckduckgo.com/ip3/eco.ort.edu.ar.ico",
     "slug": "eco",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1446,
     "timeDay": 1924,
     "timeWeek": 1524,
     "timeMonth": 1260,
     "timeYear": 1446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 2
+    }
   },
   {
     "name": "Editorial ORT",
     "url": "https://editorial.ort.edu.ar",
     "icon": "https://raw.githubusercontent.com/luqaska/ort/master/assets/editorial-ort.png",
     "slug": "editorial-ort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1631,
@@ -94,17 +100,19 @@
     "timeWeek": 1651,
     "timeMonth": 1581,
     "timeYear": 1631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 2
+    }
   },
   {
     "name": "Extranet",
     "url": "http://extranet.ort.edu.ar",
     "icon": "https://favicons.githubusercontent.com/extranet.ort.edu.ar",
     "slug": "extranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
@@ -112,17 +120,19 @@
     "timeWeek": 540,
     "timeMonth": 521,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 1
+    }
   },
   {
     "name": "F.M.",
     "url": "$DRIVE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "f-m",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 845,
@@ -131,6 +141,7 @@
     "timeMonth": 829,
     "timeYear": 845,
     "dailyMinutesDown": {
+      "2021-09-27": 1,
       "2021-08-13": 55,
       "2021-08-12": 90,
       "2021-08-11": 86
@@ -141,9 +152,9 @@
     "url": "https://www.ort.edu.ar",
     "icon": "https://favicons.githubusercontent.com/www.ort.edu.ar",
     "slug": "ort",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +163,8 @@
     "timeWeek": 4257,
     "timeMonth": 4201,
     "timeYear": 4178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   }
 ]
