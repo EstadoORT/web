@@ -64,7 +64,7 @@ i18n:
   down: ⬇
   degraded: Degradado
   loading: Cargando
-  footer: Página no oficial - Imagen por [ORT](https://www.ort.edu.ar)<br />Pwd by [Upptime](https://upptime.js.org)
+  footer: Página web no oficial<br />Pwd by [Upptime](https://upptime.js.org)
   errorTitle: Se produjo un error
   errorIntro: Se produjo un error al intentar obtener los últimos detalles del estado.
   errorText: Intentalo de nuevo en unos minutos.
@@ -80,5 +80,5 @@ i18n:
   incidentCompleted: Completado
   incidentScheduled: Programado
 
-skipDescriptionUpdate: true
+skipDescriptionUpdate: false
 skipTopicsUpdate: true
