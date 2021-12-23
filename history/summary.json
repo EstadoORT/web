@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1532,
-    "timeDay": 1182,
-    "timeWeek": 1505,
-    "timeMonth": 1602,
+    "timeDay": 1491,
+    "timeWeek": 1542,
+    "timeMonth": 1612,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2021-09-27": 68
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1383,
-    "timeDay": 1161,
-    "timeWeek": 1298,
-    "timeMonth": 1323,
-    "timeYear": 1383,
+    "time": 1381,
+    "timeDay": 974,
+    "timeWeek": 1274,
+    "timeMonth": 1312,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2021-09-27": 68
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 910,
-    "timeDay": 749,
-    "timeWeek": 956,
-    "timeMonth": 876,
-    "timeYear": 910,
+    "time": 908,
+    "timeDay": 596,
+    "timeWeek": 936,
+    "timeMonth": 870,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2021-10-04": 27,
       "2021-09-27": 85,
@@ -71,16 +71,16 @@
     "icon": "https://external-content.duckduckgo.com/ip3/eco.ort.edu.ar.ico",
     "slug": "eco",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1502,
-    "timeDay": 1301,
-    "timeWeek": 1496,
-    "timeMonth": 1496,
-    "timeYear": 1502,
+    "uptimeYear": "99.97%",
+    "time": 1500,
+    "timeDay": 1147,
+    "timeWeek": 1494,
+    "timeMonth": 1484,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2021-09-27": 67
     }
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1545,
-    "timeDay": 1207,
-    "timeWeek": 1426,
-    "timeMonth": 1386,
-    "timeYear": 1545,
+    "time": 1542,
+    "timeDay": 1051,
+    "timeWeek": 1421,
+    "timeMonth": 1376,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2021-09-27": 66
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 583,
-    "timeDay": 444,
-    "timeWeek": 582,
-    "timeMonth": 560,
-    "timeYear": 583,
+    "time": 582,
+    "timeDay": 440,
+    "timeWeek": 568,
+    "timeMonth": 555,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2021-09-27": 66
     }
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 828,
-    "timeDay": 600,
-    "timeWeek": 816,
-    "timeMonth": 785,
-    "timeYear": 828,
+    "time": 827,
+    "timeDay": 594,
+    "timeWeek": 800,
+    "timeMonth": 780,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2021-09-27": 65,
       "2021-08-13": 55,
@@ -159,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 4155,
-    "timeDay": 4033,
-    "timeWeek": 4273,
-    "timeMonth": 4300,
-    "timeYear": 4155,
+    "time": 4154,
+    "timeDay": 4020,
+    "timeWeek": 4272,
+    "timeMonth": 4289,
+    "timeYear": 4154,
     "dailyMinutesDown": {
       "2021-09-27": 65
     }
