@@ -44,11 +44,11 @@
     "url": "$RWDL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "descargas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.37%",
     "time": 893,
     "timeDay": 877,
@@ -56,6 +56,7 @@
     "timeMonth": 792,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2022-01-11": 3,
       "2021-10-04": 27,
       "2021-09-27": 85,
       "2021-09-20": 17,
@@ -70,11 +71,11 @@
     "url": "http://eco.ort.edu.ar",
     "icon": "https://external-content.duckduckgo.com/ip3/eco.ort.edu.ar.ico",
     "slug": "eco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1496,
     "timeDay": 1939,
@@ -82,6 +83,7 @@
     "timeMonth": 1464,
     "timeYear": 1496,
     "dailyMinutesDown": {
+      "2022-01-11": 2,
       "2021-09-27": 67
     }
   },
@@ -90,10 +92,10 @@
     "url": "https://editorial.ort.edu.ar",
     "icon": "https://raw.githubusercontent.com/luqaska/ort/master/assets/editorial-ort.png",
     "slug": "editorial-ort",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1516,
@@ -102,6 +104,7 @@
     "timeMonth": 1319,
     "timeYear": 1516,
     "dailyMinutesDown": {
+      "2022-01-11": 1,
       "2021-09-27": 66
     }
   },
@@ -110,9 +113,9 @@
     "url": "http://extranet.ort.edu.ar",
     "icon": "https://favicons.githubusercontent.com/extranet.ort.edu.ar",
     "slug": "extranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -122,6 +125,7 @@
     "timeMonth": 551,
     "timeYear": 579,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2021-09-27": 66
     }
   },
